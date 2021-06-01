@@ -21,11 +21,6 @@
                 "label": "Blog",
                 "url": "/blog/",
                 "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
             }
         ],
         "logo_img": "/images/LOGOPHOTOSHOPTRANS1-1.png"
